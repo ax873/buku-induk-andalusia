@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlprojek", "sqlprojek\sqlprojek.csproj", "{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5E3979-D41F-49EA-83AC-993ABDCFD20B}.Release|Default.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
